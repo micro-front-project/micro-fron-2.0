@@ -1,0 +1,1 @@
+let route = '.././<%=pname%>.vue'
